@@ -7,9 +7,7 @@ The simplest way to convert Markdown to HTML :zap:
 ## Installation
 
 ```shell
-$ git clone https://github.com/dkhamsing/markdown_html.git
-$ cd markdown_html/
-$ rake install
+$ gem install markdown_html --pre
 ```
 
 ## Usage
