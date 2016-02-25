@@ -2,6 +2,8 @@
 
 The simplest way to convert Markdown to HTML :zap:
 
+[![Gem Version](https://badge.fury.io/rb/markdown_html.svg)](https://badge.fury.io/rb/markdown_html) [![CircleCI](https://img.shields.io/circleci/project/dkhamsing/markdown_html.svg)]()
+
 ## Installation
 
 ```shell
