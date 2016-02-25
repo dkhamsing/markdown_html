@@ -20,7 +20,7 @@ $ markdown_html README.md index.html
 
 ### Example
 
-Use `markdown_html` to convert a README to HTML in a [Continuous Integration](https://github.com/dkhamsing/dkhamsing.github.io/blob/master/deploy.rb) GitHub page deployment. :sparkles:
+Use `markdown_html` to convert a README to HTML in a [Continuous Integration](https://github.com/dkhamsing/dkhamsing.github.io/blob/master/deploy.rb) GitHub page deployment :sparkles:
 
 ## Contact
 
