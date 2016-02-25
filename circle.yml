@@ -1,0 +1,6 @@
+test:
+  override:
+    - bundle exec markdown_html README.md
+general:
+  artifacts:
+    - index.html
