@@ -19,5 +19,5 @@ Gem::Specification.new do |spec|
   spec.executables   = [MarkdownHtml::PRODUCT]
   spec.require_paths = ['lib']
 
-  spec.add_runtime_dependency 'redcarpet'
+  spec.add_runtime_dependency 'redcarpet', '~> 3.3.4'
 end
